@@ -1,3 +1,5 @@
 ﻿# Salessavvy
 
- Salessavvy is a full stack ecom project built using Java Spring Boot as Backend, React Js and MySQL as backend.
+ Salessavvy is a full stack ecom project built with Java Spring Boot , React Js and MySQL.
+
+ 
